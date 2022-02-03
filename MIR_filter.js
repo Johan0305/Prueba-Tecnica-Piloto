@@ -38,4 +38,4 @@ function hypotenuse(a, b) {
   return c;
 }
 
-hypotenuse(10, 13); // retorna 16.401219466856727
+hypotenuse(10, 13);
